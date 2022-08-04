@@ -4,7 +4,7 @@
     <repository>
       <id>github</id>
       <name>GitHub OWNER Apache Maven Packages</name>
-      <url>https://maven.pkg.github.com/david-romero/cucumber-micronaut</url>
+      <url>https://maven.pkg.github.com/Roche-CSI/cucumber-micronaut</url>
     </repository>
   </distributionManagement>
   <build>
