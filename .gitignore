@@ -155,3 +155,6 @@ buildNumber.properties
 .idea
 
 .spotless
+/.settings/
+/.classpath
+/.project
